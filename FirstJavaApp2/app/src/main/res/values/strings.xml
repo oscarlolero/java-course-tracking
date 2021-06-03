@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstJavaApp2</string>
+    <string-array name="countries">
+        <item>Mexico</item>
+        <item>EU</item>
+        <item>England</item>
+    </string-array>
+</resources>

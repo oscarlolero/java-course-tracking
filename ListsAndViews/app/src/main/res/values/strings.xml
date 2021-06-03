@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListsAndViews</string>
+    <string-array name="countries">
+        <item>Mexico</item>
+        <item>USA</item>
+        <item>England</item>
+        <item>France</item>
+    </string-array>
+</resources>
