@@ -1,8 +1,10 @@
-package com.example.informationbook;
+package com.example.informationbook.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.informationbook.R;
 
 public class MuseumsActivity extends AppCompatActivity {
 
