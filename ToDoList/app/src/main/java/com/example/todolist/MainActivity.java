@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         setupControllers();
         setupListView();
 
-    }-
+    }
 
     private void setupListView() {
         itemList = FileHelper.readData(this);
