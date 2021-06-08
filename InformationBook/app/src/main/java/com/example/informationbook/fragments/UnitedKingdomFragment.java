@@ -23,9 +23,9 @@ public class UnitedKingdomFragment extends Fragment {
     public UnitedKingdomFragment() {
     }
 
-//    public static UnitedKingdomFragment newInstance() {
-//        return new UnitedKingdomFragment();
-//    }
+    public static UnitedKingdomFragment newInstance() {
+        return new UnitedKingdomFragment();
+    }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,

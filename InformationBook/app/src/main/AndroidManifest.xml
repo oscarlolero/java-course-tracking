@@ -15,7 +15,8 @@
         <activity android:name=".activities.MuseumsActivity" />
         <activity android:name=".activities.LeadersActivity" />
         <activity android:name=".activities.CountriesActivity" />
-        <activity android:name=".activities.MainActivity">
+        <activity android:name=".activities.MainActivity"
+            android:theme="@style/Theme.MyTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

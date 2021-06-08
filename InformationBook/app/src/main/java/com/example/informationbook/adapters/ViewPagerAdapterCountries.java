@@ -22,10 +22,11 @@ public class ViewPagerAdapterCountries extends FragmentStateAdapter {
     public Fragment createFragment(int position) {
 
         Fragment fragment;
-
+        System.out.println("=============================");
+        System.out.println(position);
         switch (position) {
             case 0: {
-                fragment = new UnitedKingdomFragment();
+                fragment = UnitedKingdomFragment.newInstance();
                 break;
             }
             default:
